@@ -1,3 +1,4 @@
+" File not used, for example only
 colorscheme darkblue " this one works well, feel free to change
 set background=dark
 syntax on
